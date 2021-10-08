@@ -9,4 +9,4 @@ Planet centered engineering concept renders.
 
 - Atitlán Verde - Single stage tubular municipal-food-waste and hydrilla biodigestor adapted for steep terrain. 
 
-- Lightwave - Electric hydrofoil catamaran for an advanced highspeed, exhilarating, and efficient passenger platform.
+- Lightwave - Electric hydrofoil catamaran for a highspeed, exhilarating, and efficient passenger platform.
